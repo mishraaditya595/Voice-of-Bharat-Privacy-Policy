@@ -5,7 +5,7 @@ Updated on 30th December 2022.
 
 We respect privacy and your rights to control your personal data. Our principle guidelines are simple. 
 
-This Privacy Policy (“Privacy Policy”) relates to the application named “Gita - The Song of Bhagvad” (hereinafter referred to as the “app”), the owner of the Site, (“We“, “Us“, “Our“, “Ourselves” and/or  “ScanIt”) and any related software applications (‘Apps’), where Personal Data is processed by the same (Our App) relating to You. In this Privacy Policy, “You” and “Your” and “User” refer to an identified or identifiable natural person being the User of the Site and/or any of Our provided services. If you have any questions about our Privacy Policy, our collection practices the processing of user information, or if you would like to report a security violation to us directly, please refer the contact options at the bottom of this document. 
+This Privacy Policy (“Privacy Policy”) relates to the application named “Gita - The Song of Bhagvad” (hereinafter referred to as the “app”), the owner of the Site, (“We“, “Us“, “Our“, “Ourselves” and/or  “Gita”) and any related software applications (‘Apps’), where Personal Data is processed by the same (Our App) relating to You. In this Privacy Policy, “You” and “Your” and “User” refer to an identified or identifiable natural person being the User of the Site and/or any of Our provided services. If you have any questions about our Privacy Policy, our collection practices the processing of user information, or if you would like to report a security violation to us directly, please refer the contact options at the bottom of this document. 
 
 ## Who we are?
 We refer to Mr. Aditya Mishra, the developer of the app and the person in charge of it.
